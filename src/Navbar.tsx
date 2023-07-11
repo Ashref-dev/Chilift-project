@@ -17,34 +17,34 @@ function Navbar() {
         transition={{
           ease: "easeIn",
           type: "tween",
-          staggerChildren: 0.1,
-          duration: 0.5,
-          delayChildren: animationStart + 0.5,
+          staggerChildren: 0.2,
+          duration: 0.8,
+          delayChildren: animationStart + 0.6,
         }}
-        className="bg-white z-100 absolute top-0 flex h-20 w-full items-center justify-around"
+        className="bg-white z-100 absolute top-0 flex h-20 w-full items-center justify-around xl:h-24"
       >
         <motion.div variants={reveal}>
-          <Logo className="w-20" />
+          <Logo className="w-24" />
         </motion.div>
         <div className="hidden md:flex md:items-center md:gap-5">
           <motion.span variants={reveal} className="cursor-pointer">
-            solutions.
+            à propos.
           </motion.span>
           <motion.span variants={reveal} className="cursor-pointer">
-            courses.
+            articles.
           </motion.span>
           <motion.span variants={reveal} className="cursor-pointer">
-            resources.
+            blog.
           </motion.span>
           <motion.span variants={reveal} className="cursor-pointer">
-            about.
+            contact.
           </motion.span>
         </div>
         <motion.div
           variants={reveal}
-          className="flex cursor-pointer items-center gap-1"
+          className="flex cursor-pointer items-center gap-1 md:pl-2 xl:pl-16"
         >
-          <span className="mb-1">sign in</span>
+          <span className="mb-1">s'inscrire</span>
           <ArrowRight />
         </motion.div>
       </motion.div>

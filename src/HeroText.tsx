@@ -24,7 +24,7 @@ function HeroText() {
           connectée,
         </span>
         <span className="text-center font-display font-medium ">
-          au service de votre bien-être.
+          au service de <span className="text-yellow">votre</span> bien-être.
         </span>
       </motion.div>
       <motion.span
