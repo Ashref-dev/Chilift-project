@@ -1,7 +1,10 @@
-# Chilift - Site Web de Chilift Smart Furniture
+# Chilift - Site Web de "Chilift" Smart Furniture
 
 Bienvenue sur le site web de Chilift, votre solution pour des meubles intelligents de haute qualité ! 🪑💡
+
 This website was made for [Chilift.co](https://www.chilift.co) furniture company.
+
+![Landing Page Preview](https://i.ibb.co/x3L6w3Y/og2.jpg)
 
 ## À propos
 
@@ -12,27 +15,16 @@ Chilift est une entreprise spécialisée dans les meubles intelligents et innova
 - **Meubles Intelligents:** Découvrez notre collection de meubles intelligents qui vous offrent des fonctionnalités pratiques et modernes.
 - **Design et Qualité:** Profitez de notre engagement envers un design élégant et une qualité supérieure pour une expérience utilisateur optimale.
 - **Personnalisation:** Choisissez parmi différentes options de personnalisation pour trouver le meuble qui correspond parfaitement à votre style et à vos besoins.
-- **Livraison et Installation:** Bénéficiez de notre service de livraison et d'installation professionnelle pour une expérience sans tracas.
 
 ## Comment Utiliser
 
 Utiliser le site web de Chilift est simple :
 
-1. Visitez notre site web à [chilift.com](https://www.chilift.com).
+1. Visitez le site web (nouveaux version beta) à [chilift-project.vercel.app](https://chilift-project.vercel.app/).
 2. Parcourez notre collection de meubles intelligents et sélectionnez ceux qui vous intéressent.
 3. Personnalisez votre choix en choisissant les options disponibles.
 4. Ajoutez les meubles à votre panier et passez votre commande.
 5. Profitez de notre service de livraison et d'installation professionnelle pour recevoir vos meubles chez vous.
-
-## Contribution
-
-Nous accueillons les contributions pour améliorer le site web de Chilift et offrir une expérience encore meilleure à nos clients. Voici comment vous pouvez participer :
-
-- Fork le référentiel et apportez les modifications souhaitées.
-- Soumettez une demande de pull avec une explication détaillée des améliorations que vous avez apportées.
-- Engagez-vous dans des discussions avec d'autres contributeurs pour collaborer et échanger des idées d'amélioration.
-
-Ensemble, créons une expérience exceptionnelle pour nos clients. Rejoignez-nous pour faire partie de l'aventure Chilift !
 
 ### Technologies Utilisées
 
