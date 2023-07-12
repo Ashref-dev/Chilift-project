@@ -4,6 +4,8 @@ Bienvenue sur le site web de Chilift, votre solution pour des meubles intelligen
 
 This website was made for [Chilift.co](https://www.chilift.co) furniture company.
 
+The design project can be found here : [Chilift Design on Behance](https://www.behance.net/gallery/174683127/Chilift-Logo-Branding)
+
 ![Landing Page Preview](https://i.ibb.co/x3L6w3Y/og2.jpg)
 
 ## À propos
