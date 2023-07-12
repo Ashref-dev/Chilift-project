@@ -1,3 +1,4 @@
+import video from "./assets/video_sample.webm";
 function ClipVideo() {
   return (
     <video
@@ -6,7 +7,7 @@ function ClipVideo() {
       muted
       loop
     >
-      <source src="src/assets/video_sample.webm" type="video/webm" />
+      <source src={video} type="video/webm" />
     </video>
   );
 }

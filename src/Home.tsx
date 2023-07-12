@@ -6,7 +6,7 @@ function Home() {
   return (
     <>
       <HeroText />
-      <MapImages />
+      {/* <MapImages /> */}
       <ClipVideo />
     </>
   );
