@@ -38,7 +38,7 @@ const Newsletter = () => {
           </svg>
         </div>
         <div className="mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
-          <div className="relative overflow-hidden rounded-2xl bg-[#fbf7e3] px-6 py-10 shadow-xl sm:px-12 sm:py-20">
+          <div className="relative overflow-hidden rounded-2xl bg-[#deaf1b] px-6 py-10 shadow-xl sm:px-12 sm:py-20">
             <div
               aria-hidden="true"
               className="absolute inset-0 -mt-72 sm:-mt-32 md:mt-0"
@@ -49,25 +49,14 @@ const Newsletter = () => {
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
                 viewBox="0 0 1463 360"
-              >
-                <path
-                  className="text-indigo-500 text-opacity-40"
-                  fill="currentColor"
-                  d="M-82.673 72l1761.849 472.086-134.327 501.315-1761.85-472.086z"
-                />
-                <path
-                  className="text-indigo-700 text-opacity-40"
-                  fill="currentColor"
-                  d="M-217.088 544.086L1544.761 72l134.327 501.316-1761.849 472.086z"
-                />
-              </svg>
+              ></svg>
             </div>
             <div className="relative">
               <div className="sm:text-center">
-                <h2 className="text-white text-3xl font-extrabold tracking-tight sm:text-4xl">
+                <h2 className="text-3xl font-extrabold tracking-tight text-[#ffffff] sm:text-4xl xl:text-5xl">
                   Soyez averti lors du lancement.
                 </h2>
-                <p className="text-indigo-200 mx-auto mt-6 max-w-2xl px-16 text-lg">
+                <p className="mx-auto mt-6 max-w-2xl px-16 text-xl text-[#ffffff]">
                   Soyez averti dès la sortie des derniers meubles technologiques
                   qui vous facilitent la vie.
                 </p>
@@ -85,7 +74,7 @@ const Newsletter = () => {
                   />
                 </div>
                 <div className="mt-4 sm:ml-3 sm:mt-0">
-                  <button className="border-transparent text-white focus:ring-white block w-full rounded-md bg-yellow px-5 py-3 text-base font-medium shadow hover:bg-red focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-yellow sm:px-10">
+                  <button className="border-transparent text-white focus:ring-white block w-full rounded-md bg-[#ffffff] px-5 py-3 text-base font-medium shadow-lg hover:bg-red focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-yellow sm:px-10">
                     Me notifier
                   </button>
                 </div>

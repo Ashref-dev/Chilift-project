@@ -11,19 +11,17 @@ const Quote = () => {
             />
           </div>
           <div className="relative lg:col-span-1">
-            <img
-              className="h-12 w-auto"
-              src="https://tailwindui.com/img/logos/workcation-logo-white.svg"
-              alt=""
-            />
             <blockquote className="text-white mt-6">
               <p className="text-xl font-medium sm:text-2xl">
-                Chez Chilift, nous avons révolutionné la manière dont nous interagissons avec nos clients. Nous avons enregistré des réservations records, une satisfaction client plus élevée et une réduction du taux d'attrition.
+                Chez Chilift, nous avons révolutionné la manière dont nous
+                interagissons avec nos clients. Nous avons enregistré des
+                réservations records, une satisfaction client plus élevée et une
+                réduction du taux d'attrition.
               </p>
               <footer className="mt-6">
                 <p className="flex flex-col font-medium">
-                  <span>Marie Chilvers</span>
-                  <span>PDG, Chilift</span>
+                  <span>Lilia Bouricha</span>
+                  <span>PDG, Chilift™</span>
                 </p>
               </footer>
             </blockquote>
