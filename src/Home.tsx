@@ -21,7 +21,7 @@ function Home() {
       <MarqueeLogo />
       {/* <HorizontalScrollSection /> */}
       <Quote />
-      {/* <SplineSection /> */}
+      <SplineSection />
       <About2 />
       <BlogSection />
       <Newsletter />
