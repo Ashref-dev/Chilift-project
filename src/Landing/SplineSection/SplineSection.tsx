@@ -2,7 +2,7 @@ import Spline from "@splinetool/react-spline";
 
 const SplineSection = () => {
   return (
-    <div className="hidden md:d-block" >
+    <div className="hidden md:block" >
       <h1 className="flex items-center justify-center text-center font-display text-4xl font-medium">
         Elegance en simplicité.
       </h1>
