@@ -27,14 +27,14 @@ function Home() {
 
       <SplineSection />
       <Marquee autoFill={true} pauseOnHover={true}>
-        <img className="mx-8 mt-4 mb-16 h-16" src={logo} alt="logo" />
+        <img className="mx-8 mb-16 mt-4 h-16" src={logo} alt="logo" />
       </Marquee>
       <About2 />
 
       <BlogSection />
       <Newsletter />
       <Marquee autoFill={true} pauseOnHover={true}>
-        <img className="mx-8 mt-2 mb-16 h-16" src={logo} alt="logo" />
+        <img className="mx-8 mb-16 mt-2 h-16" src={logo} alt="logo" />
       </Marquee>
       <Footer />
     </>

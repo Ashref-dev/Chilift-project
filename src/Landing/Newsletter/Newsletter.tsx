@@ -56,12 +56,12 @@ const Newsletter = () => {
                 <h2 className="text-3xl font-extrabold tracking-tight text-[#ffffff] sm:text-4xl xl:text-5xl">
                   Soyez averti lors du lancement.
                 </h2>
-                <p className="mx-auto mt-6 max-w-2xl px-16 text-xl text-[#ffffff]">
+                <p className="mx-auto mt-6 max-w-2xl  px-2 text-xl text-[#ffffff] md:px-16">
                   Soyez averti dès la sortie des derniers meubles technologiques
                   qui vous facilitent la vie.
                 </p>
               </div>
-              <div className="row my-4 flex  justify-center">
+              <div className=" row my-4 flex  items-center justify-center">
                 <div className="min-w-0 max-w-lg flex-1">
                   <label htmlFor="cta-email" className="sr-only">
                     Adresse e-mail
@@ -73,7 +73,7 @@ const Newsletter = () => {
                     placeholder="Entrer votre e-mail"
                   />
                 </div>
-                <div className="mt-4 sm:ml-3 sm:mt-0">
+                <div className=" sm:ml-3 ">
                   <button className="border-transparent text-white focus:ring-white block w-full rounded-md bg-[#ffffff] px-5 py-3 text-base font-medium shadow-lg hover:bg-red focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-yellow sm:px-10">
                     Me notifier
                   </button>
